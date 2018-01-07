@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<DB>Monthly Group
+    <Expense createDate="7/1/2018" expenseName="lunch" createUserID="" grandTotal="300" spendDate="07/01/2018">lunch
+        <Spend userID="11" username="nvnprasanth" credit="300" debit="100" />
+        <Spend userID="12" username="sriram" credit="0" debit="200" />
+        <Spend userID="13" username="user1" credit="0" debit="0" />
+        <Spend userID="14" username="sriram08ece" credit="0" debit="0" />
+        <Spend userID="15" username="nvn01" credit="0" debit="0" />
+    </Expense>
+    <Expense createDate="7/1/2018" expenseName="lll" createUserID="" grandTotal="200" spendDate="07/01/2018">lll
+        <Spend userID="11" username="nvnprasanth" credit="50" debit="50" />
+        <Spend userID="12" username="sriram" credit="150" debit="100" />
+        <Spend userID="13" username="user1" credit="0" debit="50" />
+        <Spend userID="14" username="sriram08ece" credit="0" debit="0" />
+        <Spend userID="15" username="nvn01" credit="0" debit="0" />
+    </Expense>
+    <Expense createDate="7/1/2018" expenseName="lunch" createUserID="sriram08ece" grandTotal="300" spendDate="07/01/2018">lunch
+        <Spend userID="11" username="nvnprasanth" credit="0" debit="0" />
+        <Spend userID="12" username="sriram" credit="300" debit="50" />
+        <Spend userID="13" username="user1" credit="0" debit="50" />
+        <Spend userID="14" username="sriram08ece" credit="0" debit="50" />
+        <Spend userID="15" username="nvn01" credit="0" debit="50" />
+    </Expense>
+    <Expense createDate="7/1/2018" expenseName="dinner" createUserID="sriram08ece" grandTotal="500" spendDate="5">dinner
+        <Spend userID="11" username="nvnprasanth" credit="5" debit="5" />
+        <Spend userID="12" username="sriram" credit="5" debit="5" />
+        <Spend userID="13" username="user1" credit="5" debit="5" />
+        <Spend userID="14" username="sriram08ece" credit="5" debit="5" />
+        <Spend userID="15" username="nvn01" credit="5" debit="5" />
+    </Expense>
+    <Expense createDate="7/1/2018" expenseName="llllls" createUserID="nvnprasanth" grandTotal="0" spendDate="0">llllls
+        <Spend userID="11" username="nvnprasanth" credit="0" debit="0" />
+        <Spend userID="12" username="sriram" credit="0" debit="0" />
+        <Spend userID="13" username="user1" credit="0" debit="0" />
+        <Spend userID="14" username="sriram08ece" credit="0" debit="0" />
+        <Spend userID="15" username="nvn01" credit="0" debit="0" />
+    </Expense>
+</DB>
